@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>土楼虚拟旅游</title>
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<a class="bshareDiv" href="http://www.bshare.cn/share">分享按钮</a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#uuid=&amp;style=3&amp;fs=4&amp;textcolor=#000&amp;bgcolor=#DDD&amp;text=分享到"></script>
+<div id="header"><a href="../index.html"><img src="../images/logo.gif" alt="土楼虚拟旅游" /></a></div>
+<div id="nav">
+	<span class="navLeft"></span>
+    <ul class="navCenter">
+    	<li><a href="../index.html">首页</a></li>
+        <li><a href="../list.html">振昌楼</a></li>
+        <li><a href="../list2.html">文昌楼</a></li>
+        <li><a href="../list3.html">步云楼</a></li>
+        <li><a href="../list4.html">瑞云楼</a></li>
+        <li><a href="list4.html">和昌楼</a></li>
+        <li class="noBg"><a href="http://localhost/upload/forum.php" target="_blank">交流社区</a></li>
+    </ul>
+    <span class="navRight"></span>
+</div>
+<div id="banner"><img src="../images/banner.jpg" width="980" height="382" /></div>
+<div id="listWrap"><!-- TemplateBeginEditable name="EditRegion4" -->
+  <div class="listWrapL">
+    
+  </div>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion3" -->
+	<div class="listWrapR">
+	  <div class="box"></div>
+    </div>
+<!-- TemplateEndEditable --></div>
+	<div id="botNav"></div>
+<div id="footer">
+<div class="foot">
+       	叶老三 版权所有 欢迎关注我们的微信
+	  <br />In Pursuit of Absolute Simplicity 求于至简，归于永恒
+    <img src="../images/logo1.jpg" height="47" />　 </div>
+</div>
+</body>
+</html>
